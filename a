@@ -1,0 +1,138 @@
+[33mcommit f899c84a8dda41734898737b1ced65a1078342b6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/feature[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Pirat <intake@list.ru>
+Date:   Tue Sep 17 03:36:41 2024 +0300
+
+    addtext
+
+[33mcommit bce980b5a039aee9b5ebaf505b7488a98066409b[m
+Author: Pirat <intake@list.ru>
+Date:   Tue Sep 17 03:11:23 2024 +0300
+
+    origin changed
+
+[33mcommit a3d546be315cdda80c7e0627fa303386e5405f44[m
+Author: Pirat <intake@list.ru>
+Date:   Mon Sep 16 01:19:36 2024 +0300
+
+    merge test conflicts
+
+[33mcommit 094893a5bdb4f62ac319245fd71c6b4492df3dc9[m
+Merge: 503d5ae 7a38019
+Author: Pirat <intake@list.ru>
+Date:   Mon Sep 16 01:15:24 2024 +0300
+
+    try merge with conflicts
+
+[33mcommit 7a38019205e363d378168edf05fecc8da77f8e7a[m
+Author: Pirat <intake@list.ru>
+Date:   Mon Sep 16 01:14:43 2024 +0300
+
+    test conflict
+
+[33mcommit 503d5ae92a5bffd75c52f3ef195d6745ba4b4da4[m
+Merge: a1be03e ccd5de7
+Author: Pirat <intake@list.ru>
+Date:   Mon Sep 16 01:12:36 2024 +0300
+
+    del cw merge
+
+[33mcommit ccd5de79bb99f6e4d388db8f78c70a2f41ab268b[m
+Author: Pirat <intake@list.ru>
+Date:   Mon Sep 16 01:09:35 2024 +0300
+
+    cw
+
+[33mcommit a1be03e69cb611637f985676668ee7bb2b3922ab[m
+Merge: c83713f 20cdab3
+Author: Pirat <intake@list.ru>
+Date:   Sun Sep 15 12:35:31 2024 +0300
+
+    Merge branch 'feture'
+
+[33mcommit 20cdab3d9163d91d68d4b67690bca3f77c8b8f31[m
+Author: Pirat <intake@list.ru>
+Date:   Sun Sep 15 12:35:15 2024 +0300
+
+    delete output
+
+[33mcommit c83713f7b7557477e9bba56819cea35ee788ae71[m
+Merge: e6cd6eb c326329
+Author: Pirat <intake@list.ru>
+Date:   Sat Sep 14 12:32:10 2024 +0300
+
+    Merge branch 'feture'
+
+[33mcommit c326329d21a236e342e23b6119281f790a0eb70d[m
+Author: Pirat <intake@list.ru>
+Date:   Sat Sep 14 12:23:35 2024 +0300
+
+    delete output
+
+[33mcommit e6cd6eb11b86b813a04f0153d28e6a0723c64d3e[m
+Merge: c92918b 6708dbb
+Author: Pirat <intake@list.ru>
+Date:   Sat Sep 14 12:03:44 2024 +0300
+
+    deleted ooutput
+
+[33mcommit 6708dbb53fc89fe29af1b7f7869b13f9afe37c77[m
+Author: Pirat <intake@list.ru>
+Date:   Sat Sep 14 11:59:15 2024 +0300
+
+    delete output
+
+[33mcommit c92918b5b5da6a7f47a9fbce6de0b6f8ed5111e5[m
+Author: Pirat <intake@list.ru>
+Date:   Sat Sep 14 11:54:11 2024 +0300
+
+    Changed gitignore
+
+[33mcommit fb67405abb95509e13010cdafc6438048241ca1d[m
+Merge: 3c78e53 2f42687
+Author: Pirat <intake@list.ru>
+Date:   Sat Sep 14 11:45:02 2024 +0300
+
+    new output
+
+[33mcommit 2f42687027b19e5be3a44e8825c9b9c0de8c51f2[m
+Author: Pirat <intake@list.ru>
+Date:   Sat Sep 14 00:43:38 2024 +0300
+
+    new output
+
+[33mcommit 3c78e533bac9525811442d5fb6987492aeeeb229[m
+Merge: 8f0aa47 41f868f
+Author: Pirat <intake@list.ru>
+Date:   Sat Sep 14 00:42:28 2024 +0300
+
+    tupanul
+
+[33mcommit 41f868feb90bb1fea0c86241dcbcb4a7171dc20f[m
+Author: Pirat <intake@list.ru>
+Date:   Sat Sep 14 00:38:06 2024 +0300
+
+    Added new output
+
+[33mcommit 8f0aa47e8beb7eca233b73e0ee005c8c1cc60060[m
+Author: Pirat <intake@list.ru>
+Date:   Sat Sep 14 00:26:50 2024 +0300
+
+    Add AssemblyInfo files to gitignore
+
+[33mcommit 2711a6893a978658d532258156757172d2252c01[m
+Author: Pirat <intake@list.ru>
+Date:   Wed Sep 11 22:06:08 2024 +0300
+
+    Added output
+
+[33mcommit 356310a1f37b7f04df06c30608874cc25d7a3c01[m
+Author: Pirat <intake@list.ru>
+Date:   Wed Sep 11 22:03:03 2024 +0300
+
+    config changed
+
+[33mcommit 6f0cfe646c6b6977856cb312f830f8e829eedd18[m
+Author: Pirat <intake@list.ru>
+Date:   Wed Sep 11 00:07:56 2024 +0300
+
+    init commit
