@@ -2,7 +2,7 @@
 Console.WriteLine("Hello, World!");
 for (int i = 0; i < 10; i++)
 {
-    Console.WriteLine("yo yo sso");
+    Console.WriteLine("suck mu cube");
     Console.WriteLine("yo syo yos");
 
 
