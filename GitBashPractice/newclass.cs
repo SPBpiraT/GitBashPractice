@@ -12,6 +12,7 @@ namespace GitBashPractice
         public void CW()
         {
             Console.WriteLine("ne");
+            Console.WriteLine("ne");
         }
     }
 }
