@@ -12,7 +12,7 @@ namespace GitBashPractice
         {
             Console.WriteLine("ne");
             Console.WriteLine("ne");
-            Console.WriteLine("ne");
+            Console.WriteLine("nsse");
         }
     }
 }
