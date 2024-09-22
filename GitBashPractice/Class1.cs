@@ -14,5 +14,10 @@ namespace GitBashPractice
             Console.WriteLine("ne");
             Console.WriteLine("nsse");
         }
+
+        public void CS()
+        {
+            Console.WriteLine("nsse");
+        }
     }
 }
